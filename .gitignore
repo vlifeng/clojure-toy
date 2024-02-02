@@ -1,0 +1,11 @@
+.DS_Store      
+node_modules
+yarn.lock
+log.sh
+src/.DS_Store
+.cpcache/
+.shadow-cljs/
+resources/public/js/
+dest
+nohup.out
+config/dev.edn
